@@ -1,0 +1,73 @@
+{{#basics}}
+{{name}} %===========
+
+{{#location}}{{address}}, {{city}}, {{postalCode}} {{/location}}
+
+{{email}}
+
+{{phone}}
+
+{{profiles.0.url}}
+
+{{summary}}
+{{/basics}}
+
+Portfolio: https://github.com/trauber for information about software I have written; source code available. Please e-mail me with any questions.
+
+Skills %------
+
+{{#skills}}
+
+* {{name}}:    {{#keywords}}{{this}}; {{/keywords}}
+{{/skills}}
+
+
+Education %---------
+
+{{#education}}
+
+* {{institution}}, {{studyType}} - {{area}} -- {{period}}
+{{#if courses}}{{#courses}}
+  - {{this}}{{/courses}}{{/if}}
+{{/education}}
+
+
+
+
+Work Experience %---------------
+
+{{#work}}
+
+* {{company}}, {{position}} -- {{period}}
+
+    {{summary}}
+{{#if highlights}}
+{{#highlights}}
+    - {{this}}
+{{/highlights}} {{/if}} {{/work}}
+
+Previous Work Highlights %------------------------
+
+{{#prevhighlights}}
+* {{this}}
+{{/prevhighlights}}
+
+Volunteer %---------
+
+{{#volunteer}}
+
+* {{organization}}, {{position}} -- {{period}}
+
+    {{summary}}
+{{#if highlights}}
+{{#highlights}}
+    - {{this}}
+{{/highlights}}{{/if}}{{/volunteer}}
+
+
+
+
+
+
+
+

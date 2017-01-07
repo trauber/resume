@@ -1,0 +1,25 @@
+
+\documentclass[margin=3px]{standalone}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\definecolor{light-gray}{gray}{0.90}
+\usepackage[math]{kurier}
+\usepackage[T1]{fontenc}
+\begin{document}
+%\begin{picture}(100,100)(10,10)
+
+\makebox[3.5in][l]{
+\put(150,70){ \includegraphics[scale=0.35]{qrcode.eps} }
+\put(6,118){\color{light-gray}BEGIN:VCARD}
+\put(6,106){\color{light-gray}{VERSION:2.1}}
+\put(6,94){{\color{light-gray}FN:}{\bf Rich Traube}}
+\put(6,82){\color{light-gray}N:Traube;Rich}
+\put(6,70){{\color{light-gray}TITLE:}{\bf IT Professional}}
+\put(6,58){{\color{light-gray}TEL;CELL:}{\bf+1-773-964-2941}}
+\put(6,46){{\color{light-gray}EMAIL;HOME;INTERNET:}{\bf rich.traube@gmail.com}}
+\put(6,34){{\color{light-gray}URL:}{\bf http://linkedin.com/in/richtraube}}
+\put(6,22){{\color{light-gray}ADR:;;;}{\bf Moorestown, NJ}{\color{light-gray};;;}}
+\put(6,8){\color{light-gray}END:VCARD}
+}
+%
+\end{document}

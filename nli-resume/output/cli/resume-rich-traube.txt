@@ -1,0 +1,151 @@
+
+Rich Traube (CCNA) 
+===========
+
+252 Linden Street, Moorestown, NJ 08057
+
+rich.traube@gmail.com
+
+(773) 964--2941
+
+https://www.linkedin.com/in/richtraube
+
+I have extensive experience in a high demand academic environment and
+bring computer expertise, leadership, reliability, and innovation to
+all projects and tasks. Having obtained certification in Cisco Routing
+and Switching (CCNA) and pursuing certification in Microsoft Server 2012
+Solutions (MCSA), I am looking for a permanent, full--time opportunity
+in Internet Technology.
+
+Portfolio: https://github.com/trauber for information about software I
+have written; source code available. Please e-mail me with any questions.
+
+Skills 
+------
+
+* Office:    Research methods; Microsoft Office productivity (Excel,
+Word, and strong Microsoft Access); strong communication, complaint
+resolution skills (in--person, telephone, e-mail, IM); LibreOffice; high
+volume data entry and data analysis; report writing and preparation;
+library reference services; scheduling; touch typing (60 wpm); document
+scanning; staff training; documentation;
+
+* Computer:    CCNA Certified; Microsoft Server 2012; Linux; Unix;
+bash; GitHub; perl; Access SQL; bibliographic management software;
+HTML; HTML e-mail; Javascript; PHP; MySQL; CSS; TeX and LaTeX; XSLT;
+document management;
+
+Education 
+---------
+
+* Miles Technologies, Moorestown, NJ, Certification - Windows 7 --
+2016--Present
+
+  - Remote Support (with a focus on Windows 7)
+
+* Network Learning Institute, Mount Laurel, NJ, Certified (CSCO12946171)
+- CCNA -- 2015--2016
+
+  - Certified with high passing grade - Networking Fundamentals - LANs
+  &amp; Switches - IPV4 Addressing &amp; Subnetting - Route Summarization
+  - Access Control Lists - IPV6 Fundamentals - Spanning Tree Protocol
+  - IPV4 Troubleshooting - Routing Protocols: OSPF, EIGRP &amp;
+  Troubleshooting - WANS - IPV6 Troubleshooting - EIGRP &amp; OSPF -
+  Network Management
+
+* Network Learning Institute, Mount Laurel, NJ, Course work toward
+certfication - MSCA (MS Server 2012 R2) -- 2015--Present
+
+* University of Chicago, Chicago, IL, Course work towards Bachelor of
+Arts - European History -- 1976--1981
+
+Work Experience 
+---------------
+
+* Moorestown Township Public Schools, Substitute Paraprofessional --
+2016--present
+
+* Home, Stay at Home Dad -- 2011--2016
+
+* University of Chicago, Supervisor, Social Service Administration
+Library -- 2005--2011
+
+    Directed all daily operations of university branch library; supervised
+    staff of seven, managed staff hiring, training, scheduling, evaluation
+    and helped with project development and oversight.
+
+    - Wrote, formatted, and maintained content for SSA Library’s web
+    site and designed layout.
+
+    - Wrote documentation and standard operating procedures for various
+    library functions.
+
+    - Used open source software to provide in-house web and mobile
+    scheduling of employees.
+
+    - Wrote perl script to categorize social service research sources.
+
+    - Wrote an awk script to generate AutoHotkey macros to vastly
+    accelerate input of journal citations and links from aggregators
+    into the integrated library system.
+
+    - Served as Systems Liaison between SSA Library and University
+    Library’s Systems Office.
+
+    - Assisted with reference work, specializing in assistance with
+    reference management software and database use.
+
+    - Appointed member of Access committee for oversight of public
+    services.
+
+    - Alpha and beta tester for new reserve module of the integrated
+    library system.
+
+* University of Chicago, Library Assistant II, Regenstein Library Course
+Reserves -- 2003--2005
+
+    Processor in extremely busy university course reserve department:
+    processed requests from faculty and their proxies; obtained sources;
+    processed paper and digital content; created and maintained records
+    in integrated library system.
+
+    - Wrote Microsoft Access queries to provide data for annual report.
+
+    - Improved various aspects of course reserve processing by creating
+    Microsoft Access reports: book and article procurement; scanning
+    triage; copyright compliance.
+
+    - Appointed member of committee to develop specifications for the
+    new reserve module of the integrated library system, ARES.
+
+Previous Work Highlights 
+------------------------
+
+* Wrote for and maintained web sites.
+
+* Wrote Microsoft Access reports to produce annual report tables and to
+improve course reserve processing.
+
+* Improved on printed reserve catalog book with Microsoft Access generated
+web listings of books on library reserve for undergraduate courses;
+each title linked to real time circulation data in the integrated
+library system.
+
+* Designed a new nroff based system to replace reserve index card catalog
+with a printed book.
+
+* Wrote AskSam database for printing a catalog of books on reserve for
+law courses.
+
+Volunteer 
+---------
+
+* Invention Convention, New Albany Elementary School, Data Entry -- 2015
+
+    - Entered invention contest data into Microsoft Access database.
+
+* Moorestown Public Library, Data Entry/Database Development -- 2011--2012
+
+    - Entered data and wrote prototype MySQL/PHP database and web
+    interface for searching indices of Moorestown NJ newspapers.
+

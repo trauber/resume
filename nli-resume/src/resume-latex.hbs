@@ -1,0 +1,187 @@
+\documentclass[lettersize,12pt,]{article}
+%\raggedright
+\raggedbottom
+\usepackage{microtype}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage[top=1cm, bottom=1cm, left=2cm, right=2cm]{geometry}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage{paralist}
+\usepackage{wallpaper}
+\usepackage{graphicx}
+
+%\usepackage{libertine}
+%\renewcommand*\familydefault{\sfdefault}  %% Only if the base font of the document is to be sans serif
+%\usepackage[T1]{fontenc}
+
+\usepackage{kurier}
+\usepackage[T1]{fontenc}
+
+
+% Fancy rule.
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\newcommand{\myrule} [3] []{
+    %\begin{center}
+        \begin{tikzpicture}
+            \draw[#2-#3, ultra thick, #1] (0,0) to (1\linewidth,0);
+        \end{tikzpicture}
+    %\end{center}
+}
+
+\usepackage[compact]{titlesec}
+\titlespacing{\section}{-2em}{*0}{*0}
+\titlespacing{\subsection}{-2em}{*0}{*0}
+\titlespacing{\subsubsection}{-1em}{*0}{*0}
+
+\ifxetex
+  \usepackage{fontspec,xltxtra,xunicode}
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\else
+  \ifluatex
+    \usepackage{fontspec}
+    \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+    \newcommand{\euro}{€}
+  \else
+    \usepackage[utf8]{inputenc}
+  \fi
+\fi
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex,
+              bookmarks=true,
+              pdfauthor={},
+              pdftitle={},
+              colorlinks=true,
+              allcolors=RawSienna]{hyperref}
+\else
+  \usepackage[unicode=true,
+              bookmarks=true,
+              pdfauthor={},
+              pdftitle={},
+              colorlinks=true,
+              allcolors=Maroon]{hyperref}
+\fi
+\hypersetup{breaklinks=true, pdfborder={0 0 0}}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+
+\pagestyle{empty}
+
+\begin{document}
+
+{{#basics}}
+\section{ {{name}} }
+
+%\href{mailto:{{email}} }{ {{email}} } \textbar{}
+%{{phone}}  }
+
+%\href{ {{profiles.0.url}} }{\textbf{ {{ profiles.0.url }} }}
+
+\begin{compactitem}
+\item[] {{#location}}{{address}}
+\item[] {{city}}, {{postalCode}} {{/location}}
+\item[] {{phone}}
+\item[] \href{mailto:{{email}} }{ {{email}} }
+\item[] \href{ {{profiles.0.url}} }{ {{profiles.0.url}} }
+\end{compactitem}
+
+
+\begin{picture}(0,0)(-425,-20)
+\includegraphics[scale=0.35]{qrcode.eps}
+\end{picture}
+
+\vspace{-2em}
+
+\myrule[line width = 1mm]{fast cap}{fast cap}
+
+\vspace{-2em}
+
+\begin{quote} 
+\emph{ {{summary}} }
+\end{quote}
+
+\vspace{-1em}
+
+%\myrule[line width = 1mm]{fast cap}{fast cap}
+
+{{/basics}}
+
+Please see \href{https://github.com/trauber}{\textbf{https://github.com/trauber}}
+for information about software I have written; source code available. Please e-mail me with any questions.
+
+
+\subsection{Education}\label{education}
+{{#education}}
+\subsubsection{ {{institution}}, {{studyType}} -- {{area}} \hfill {{period}} }
+{{#if courses}} {{#courses}} {{this}}; {{/courses}} {{/if}}
+{{/education}}
+
+
+
+\subsection{Skills}\label{skills}
+\begin{compactdesc}
+{{#skills}}
+\item[{{name}}] {{#keywords}}{{this}}; {{/keywords}}
+{{/skills}}
+\end{compactdesc}
+
+
+\subsection{Work Experience}
+{{#work}}
+{{#if website}}
+\subsubsection{ \href{ {{website}} }{ {{company}}, {{position}} }\hfill {{period}} }
+{{else}}
+\subsubsection{ {{company}}, {{position}}  \hfill {{period}} }
+{{/if}}
+{{summary}}
+{{#if highlights}}
+\begin{compactitem}
+\itemsep1pt\parskip0pt\parsep0pt
+{{#highlights}}
+\item {{this}}
+{{/highlights}}
+\end{compactitem}
+{{/if}}
+{{/work}}
+
+
+\subsection{Previous Work Highlights}
+\begin{compactitem}
+{{#prevhighlights}}
+\item {{this}}
+{{/prevhighlights}}
+\end{compactitem}
+
+\subsection{Volunteer}\label{volunteer}
+{{#volunteer}}
+{{#if website}}
+\subsubsection{ \href{ {{website}} }{ {{organization}}, {{position}} }\hfill {{period}} }
+{{else}}
+\subsubsection{ {{organization}}, {{position}} \hfill {{period}} }
+{{/if}}
+{{summary}}
+{{#if highlights}}
+\begin{compactitem}
+\itemsep1pt\parskip0pt\parsep0pt
+{{#highlights}}
+\item {{this}}
+{{/highlights}}
+\end{compactitem}
+{{/if}}
+{{/volunteer}}
+
+
+
+\subsection{Interests}\label{interests}
+\begin{compactitem}
+{{#interests}}
+\item {{name}} {{#each keywords}} {{this}} {{/each}}
+{{/interests}}
+\end{compactitem}
+\end{document}

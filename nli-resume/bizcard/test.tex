@@ -1,0 +1,52 @@
+\documentclass[letterpaper]{article}
+\usepackage{graphicx}
+\usepackage{soul}
+\usepackage[frame]{bizcard}
+\usepackage{xcolor}
+\definecolor{light-gray}{gray}{0.90}
+
+%\usepackage[T1]{fontenc}
+%\renewcommand*\familydefault{\sfdefault} %% Only if the base font of the document is to be sans serif
+
+%\usepackage[T1]{fontenc}
+%\usepackage[default]{raleway}
+
+\usepackage[math]{kurier}
+\usepackage[T1]{fontenc}
+
+%\usepackage{bbold}
+%\usepackage[T1]{fontenc}
+
+
+%\usepackage[OT1]{fontenc}
+%\usepackage{outline}
+%\renewcommand*\familydefault{ocmss}
+
+
+%\usepackage{libertine}
+%\renewcommand*\familydefault{\sfdefault}  %% Only if the base font of the document is to be sans serif
+%\usepackage[T1]{fontenc}
+
+
+
+\begin{document}
+%\bfseries
+%\bbfamily
+\small
+\begin{bizcard}
+\put(50,21){
+\includegraphics[scale=0.35]{qrcode.eps}
+}
+\put(6,40){\color{light-gray}BEGIN:VCARD}
+\put(6,36){\color{light-gray}{VERSION:2.1}}
+\put(6,32){{\color{light-gray}FN:}{\bf Rich Traube}}
+\put(6,28){\color{light-gray}N:Traube;Rich}
+\put(6,24){{\color{light-gray}TITLE:}{\bf IT Professional}}
+\put(6,20){{\color{light-gray}TEL;CELL:}{\bf+1-773-964-2941}}
+\put(6,16){{\color{light-gray}EMAIL;HOME;INTERNET:}{\bf rich.traube@gmail.com}}
+\put(6,12){{\color{light-gray}URL:}{\bf http://linkedin.com/in/richtraube}}
+\put(6,8){{\color{light-gray}ADR:;;;}{\bf Moorestown, NJ}{\color{light-gray};;;}}
+\put(6,4){\color{light-gray}END:VCARD}
+\end{bizcard}
+
+\end{document}

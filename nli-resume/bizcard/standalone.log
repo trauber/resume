@@ -1,0 +1,260 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.4.25)  27 APR 2016 15:10
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**standalone.tex
+(./standalone.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 13 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/standalone/standalone.cls
+Document Class: standalone 2015/07/15 v1.2 Class to compile TeX sub-files stand
+alone
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count79
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\sa@internal=\count80
+\c@sapage=\count81
+
+(/usr/share/texlive/texmf-dist/tex/latex/standalone/standalone.cfg
+File: standalone.cfg 2015/07/15 v1.2 Default configuration file for 'standalone
+' class
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+\sa@box=\box26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texmf/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kurier/kurier.sty
+Package: kurier 2005/10/03 v.1.2 Kurier package (MW)
+\c@mv@kurier=\count91
+\c@mv@kurierbold=\count92
+LaTeX Font Info:    Overwriting symbol font `operators' in version `kurier'
+(Font)                  OT1/cmr/m/n --> OT1/kurierm/m/n on input line 59.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `kurier'
+(Font)                  OML/cmm/m/it --> OML/kurier/m/it on input line 60.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `kurier'
+(Font)                  OMS/cmsy/m/n --> OMS/kurier/m/n on input line 61.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `kurier'
+(Font)                  OMX/cmex/m/n --> OMX/kurier/m/n on input line 62.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `kurierbold'
+
+(Font)                  OT1/cmr/m/n --> OT1/kurierm/b/n on input line 63.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `kurierbold'
+(Font)                  OML/cmm/m/it --> OML/kurier/b/it on input line 64.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `kurierbold'
+(Font)                  OMS/cmsy/m/n --> OMS/kurier/b/n on input line 65.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `kurierbo
+ld'
+(Font)                  OMX/cmex/m/n --> OMX/kurier/b/n on input line 66.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `kurier'
+(Font)                  OT1/cmr/bx/n --> OT1/kurier/bx/n on input line 68.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `kurier'
+(Font)                  OT1/cmss/m/n --> OT1/kurier/m/n on input line 69.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `kurier'
+(Font)                  OT1/cmr/m/it --> OT1/kurier/m/it on input line 70.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `kurier'
+(Font)                  OT1/cmtt/m/n --> OT1/kurier/m/n on input line 71.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `kurierbold'
+
+(Font)                  OT1/cmss/m/n --> OT1/kurier/bx/n on input line 72.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `kurierbold'
+
+(Font)                  OT1/cmr/m/it --> OT1/kurier/bx/it on input line 73.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+kurier on input line 10
+5.
+
+(/usr/share/texlive/texmf-dist/tex/latex/kurier/t1kurier.fd
+File: t1kurier.fd 2008/07/22 v0.995 font definition file for T1/kurier (MW)
+)) (./standalone.aux)
+\openout1 = `standalone.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count93
+\scratchdimen=\dimen105
+\scratchbox=\box27
+\nofMPsegments=\count94
+\nofMParguments=\count95
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count96
+\MPscratchDim=\dimen106
+\MPnumerator=\count97
+\makeMPintoPDFobject=\count98
+\everyMPtoPDFconversion=\toks17
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package epstopdf Info: Source file: <qrcode.eps>
+(epstopdf)                    date: 2016-02-17 10:28:37
+(epstopdf)                    size: 279127 bytes
+(epstopdf)             Output file: <qrcode-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-02-17 10:40:43
+(epstopdf)                    size: 5702 bytes
+(epstopdf)             Command: <repstopdf --outfile=qrcode-eps-converted-to.pd
+f qrcode.eps>
+(epstopdf)             \includegraphics on input line 23.
+Package epstopdf Info: Output file is already uptodate.
+
+<qrcode-eps-converted-to.pdf, id=1, 212.795pt x 212.795pt>
+File: qrcode-eps-converted-to.pdf Graphic file (type pdf)
+
+<use qrcode-eps-converted-to.pdf>
+Package pdftex.def Info: qrcode-eps-converted-to.pdf used on input line 23.
+(pdftex.def)             Requested size: 74.47935pt x 74.47935pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./qrcode-eps-converted-to.
+pdf>] (./standalone.aux) ) 
+Here is how much of TeX's memory you used:
+ 2697 strings out of 494465
+ 37616 string characters out of 6171947
+ 93765 words of memory out of 5000000
+ 6102 multiletter control sequences out of 15000+600000
+ 9900 words of font info for 16 fonts, out of 8000000 for 9000
+ 286 hyphenation exceptions out of 8191
+ 38i,7n,56p,241b,203s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/kurier
+/ec-kurier.enc}</usr/share/texlive/texmf-dist/fonts/type1/nowacki/kurier/kurier
+b.pfb></usr/share/texlive/texmf-dist/fonts/type1/nowacki/kurier/kurierr.pfb>
+Output written on standalone.pdf (1 page, 50234 bytes).
+PDF statistics:
+ 21 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+

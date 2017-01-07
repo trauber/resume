@@ -1,0 +1,73 @@
+This is TeX, Version 3.14159265 (TeX Live 2015/Debian) (preloaded format=tex 2016.4.25)  27 APR 2016 12:37
+**card.tex
+(./card.tex
+! Undefined control sequence.
+l.4 \documentstyle
+                  {article}
+? q
+OK, entering \batchmode...
+! Undefined control sequence.
+l.18 \textwidth
+                      7.00in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.19 \textheight
+                     10.50in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.21 \oddsidemargin
+                      -.25in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.22 \evensidemargin
+                      -.25in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.23 \topmargin
+                     -0.90in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.24 \itemindent
+                      0.00in
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! I can't find file `{psfig}'.
+l.59 \input{psfig}
+                  
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name
+! Emergency stop.
+l.59 \input{psfig}
+                  
+*** (job aborted, file error in nonstop mode)
+
+No pages of output.

@@ -1,0 +1,17 @@
+references:
+    -
+        name: "Eileen Libby"
+        email: "eileenlibby5704@gmail.com"
+        phone: "(773) 324--5097"
+        title: "Director of Social Service Administration Library, University of Chicago (retired)"
+    -
+        name: "Jackie Larson"
+        title: "Head of Reserve Processing, Regenstein Library, University of Chicago"
+        email: "jlarson@uchicago.edu"
+        phone: "(773) 702--8700"
+    -
+        name: "David Larsen"
+        title: "Head of Access Services and Assessment, University of Chicago Libraries"
+        email: "d-larsen@uchicago.edu"
+        phone: "(773) 702--8626"
+

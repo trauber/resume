@@ -1,0 +1,46 @@
+{{#basics}}
+
+
+# {{name}}
+\qc
+{{#location}}{{address}}, {{city}}, {{postalCode}} {{/location}} | {{email}} | {{phone}}\
+[{{profiles.0.url}}]({{profiles.0.url}})
+
+{{summary}}
+{{/basics}}
+
+Please see [https://github.com/trauber](https://github.com/trauber) for information about software I have written; source code available. Please e-mail me with any questions.
+
+
+## Education {{#education}}
+### {{institution}}, {{studyType}} -- {{area}} --- {{period}}
+{{#if courses}}{{#courses}} {{this}}; {{/courses}} {{/if}}
+{{/education}}
+
+## Skills {{#skills}}
+- {{name}}:    {{#keywords}}{{this}}; {{/keywords}}
+{{/skills}}
+
+
+## Work Experience {{#work}}
+
+### **{{company}}, {{position}} --- {{period}}**
+
+{{summary}}
+{{#if highlights}} {{#highlights}}
+- {{this}} {{/highlights}} {{/if}} {{/work}}
+
+## Previous Work Highlights {{#prevhighlights}}
+- {{this}}{{/prevhighlights}}
+
+## Volunteer {{#volunteer}} 
+
+### **{{organization}}, {{position}} --- {{period}}**
+
+{{summary}}
+{{#if highlights}} {{#highlights}}
+- {{this}}
+
+{{/highlights}}
+{{/if}} {{/volunteer}}
+
