@@ -1,215 +1,215 @@
 {
-  "basics": {
-    "name": "Rich Traube (CCNA)",
-    "summary": "I have extensive experience in a high demand academic environment and bring computer expertise, leadership, reliability, and innovation to all projects and tasks. Having obtained certification in Cisco Routing and Switching (CCNA) and pursuing certification in Microsoft Server 2012 Solutions (MCSA), I am looking for a permanent, full--time opportunity in Internet Technology.",
-    "location": {
-      "address": "252 Linden Street",
-      "city": "Moorestown",
-      "postalCode": "NJ 08057",
-      "countryCode": "US",
-      "region": "New Jersey"
-    },
-    "email": "rich.traube@gmail.com",
-    "phone": "(773) 964--2941",
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "url": "https://www.linkedin.com/in/richtraube",
-        "username": "richard-traube"
-      },
-      {
-        "network": "GitHub",
-        "url": "https://github.com/trauber",
-        "username": "trauber"
-      }
+    "interests": [
+        {
+            "name": "Linux Computing"
+        }, 
+        {
+            "name": "Trumpet"
+        }, 
+        {
+            "name": "Singing"
+        }
+    ], 
+    "prevhighlights": [
+        "Wrote for and maintained web sites.", 
+        "Wrote Microsoft Access reports to produce annual report tables and to improve course reserve processing.", 
+        "Improved on printed reserve catalog book with Microsoft Access generated web listings of books on library reserve for undergraduate courses; each title linked to real time circulation data in the integrated library system.", 
+        "Designed a new nroff based system to replace reserve index card catalog with a printed book.", 
+        "Wrote AskSam database for printing a catalog of books on reserve for law courses."
+    ], 
+    "basics": {
+        "phone": "(773) 964--2941", 
+        "email": "rich.traube@gmail.com", 
+        "name": "Rich Traube (CCNA)", 
+        "location": {
+            "postalCode": "NJ 08057", 
+            "city": "Moorestown", 
+            "region": "New Jersey", 
+            "countryCode": "US", 
+            "address": "252 Linden Street"
+        }, 
+        "profiles": [
+            {
+                "url": "https://www.linkedin.com/in/richtraube", 
+                "username": "richard-traube", 
+                "network": "LinkedIn"
+            }, 
+            {
+                "url": "https://github.com/trauber", 
+                "username": "trauber", 
+                "network": "GitHub"
+            }
+        ], 
+        "summary": "I have extensive experience in a high demand academic environment and bring computer expertise, leadership, reliability, and innovation to all projects and tasks. Having obtained certification in Cisco Routing and Switching (CCNA) and pursuing certification in Microsoft Server 2012 Solutions (MCSA), I am looking for a permanent, full--time opportunity in Internet Technology."
+    }, 
+    "skills": [
+        {
+            "keywords": [
+                "Research methods", 
+                "Microsoft Office productivity (Excel, Word, and strong Microsoft Access)", 
+                "strong communication, complaint resolution skills (in--person, telephone, e-mail, IM)", 
+                "LibreOffice", 
+                "high volume data entry and data analysis", 
+                "report writing and preparation", 
+                "library reference services", 
+                "scheduling", 
+                "touch typing (60 wpm)", 
+                "document scanning", 
+                "staff training", 
+                "documentation"
+            ], 
+            "name": "Office", 
+            "level": "Intermediate-Advanced"
+        }, 
+        {
+            "keywords": [
+                "CCNA Certified", 
+                "Microsoft Server 2012", 
+                "Linux", 
+                "Unix", 
+                "bash", 
+                "GitHub", 
+                "perl", 
+                "Access SQL", 
+                "bibliographic management software", 
+                "HTML", 
+                "HTML e-mail", 
+                "Javascript", 
+                "PHP", 
+                "MySQL", 
+                "CSS", 
+                "TeX and LaTeX", 
+                "XSLT", 
+                "document management"
+            ], 
+            "name": "Computer", 
+            "level": "Intermediate-Advanced"
+        }
+    ], 
+    "work": [
+        {
+            "position": "Substitute Paraprofessional", 
+            "company": "Moorestown Township Public Schools", 
+            "endDate": "present", 
+            "period": "2016--present", 
+            "startDate": "2016-09-01"
+        }, 
+        {
+            "website": null, 
+            "startDate": "2011-08-01", 
+            "endDate": "2011-09-01", 
+            "position": "Stay at Home Dad", 
+            "company": "Home", 
+            "period": "2011--2016"
+        }, 
+        {
+            "website": "http://lib.uchicago.edu/e/ssa", 
+            "startDate": "2005-03-01", 
+            "endDate": "2011-07-31", 
+            "highlights": [
+                "Wrote, formatted, and maintained content for SSA Library\u2019s web site and designed layout.", 
+                "Wrote documentation and standard operating procedures for various library functions.", 
+                "Used open source software to provide in-house web and mobile scheduling of employees.", 
+                "Wrote perl script to categorize social service research sources.", 
+                "Wrote an awk script to generate AutoHotkey macros to vastly accelerate input of journal citations and links from aggregators into the integrated library system.", 
+                "Served as Systems Liaison between SSA Library and University Library\u2019s Systems Office.", 
+                "Assisted with reference work, specializing in assistance with reference management software and database use.", 
+                "Appointed member of Access committee for oversight of public services.", 
+                "Alpha and beta tester for new reserve module of the integrated library system."
+            ], 
+            "company": "University of Chicago", 
+            "period": "2005--2011", 
+            "summary": "Directed all daily operations of university branch library; supervised staff of seven, managed staff hiring, training, scheduling, evaluation and helped with project development and oversight.", 
+            "position": "Supervisor, Social Service Administration Library"
+        }, 
+        {
+            "website": "http://www.lib.uchicago.edu/e/using/reserve/", 
+            "startDate": "2003-07-01", 
+            "endDate": "2005-02-28", 
+            "highlights": [
+                "Wrote Microsoft Access queries to provide data for annual report.", 
+                "Improved various aspects of course reserve processing by creating Microsoft Access reports: book and article procurement; scanning triage; copyright compliance.", 
+                "Appointed member of committee to develop specifications for the new reserve module of the integrated library system, ARES."
+            ], 
+            "company": "University of Chicago", 
+            "period": "2003--2005", 
+            "summary": "Processor in extremely busy university course reserve department: processed requests from faculty and their proxies; obtained sources; processed paper and digital content; created and maintained records in integrated library system.", 
+            "position": "Library Assistant II, Regenstein Library Course Reserves"
+        }
+    ], 
+    "education": [
+        {
+            "startDate": "2016-11-10", 
+            "endDate": "2016-12-10", 
+            "area": "Windows 7", 
+            "courses": "Remote Support (with a focus on Windows 7)", 
+            "period": "2016--Present", 
+            "studyType": "Certification", 
+            "institution": "Miles Technologies, Moorestown, NJ"
+        }, 
+        {
+            "startDate": "2015-12-14", 
+            "endDate": "2016-03-07", 
+            "area": "CCNA", 
+            "courses": [
+                "Certified with high passing grade", 
+                "Networking Fundamentals", 
+                "LANs & Switches", 
+                "IPV4 Addressing & Subnetting", 
+                "Route Summarization", 
+                "Access Control Lists", 
+                "IPV6 Fundamentals", 
+                "Spanning Tree Protocol", 
+                "IPV4 Troubleshooting", 
+                "Routing Protocols: OSPF, EIGRP & Troubleshooting", 
+                "WANS", 
+                "IPV6 Troubleshooting - EIGRP & OSPF", 
+                "Network Management"
+            ], 
+            "period": "2015--2016", 
+            "studyType": "Certified (CSCO12946171)", 
+            "institution": "Network Learning Institute, Mount Laurel, NJ"
+        }, 
+        {
+            "startDate": "2015-08-03", 
+            "endDate": "2015-12-03", 
+            "area": "MSCA (MS Server 2012 R2)", 
+            "courses": null, 
+            "period": "2015--Present", 
+            "studyType": "Course work toward certfication", 
+            "institution": "Network Learning Institute, Mount Laurel, NJ"
+        }, 
+        {
+            "startDate": "1976-09-01", 
+            "endDate": "1981-06-01", 
+            "area": "European History", 
+            "period": "1976--1981", 
+            "studyType": "Course work towards Bachelor of Arts", 
+            "institution": "University of Chicago, Chicago, IL"
+        }
+    ], 
+    "volunteer": [
+        {
+            "website": "", 
+            "startDate": "2015-04-22", 
+            "organization": "Invention Convention, New Albany Elementary School", 
+            "endDate": "2015-04-22", 
+            "position": "Data Entry", 
+            "highlights": [
+                "Entered invention contest data into Microsoft Access database."
+            ], 
+            "period": "2015"
+        }, 
+        {
+            "website": "http://www.moorestown.lib.nj.us/", 
+            "startDate": "2011-01-01", 
+            "organization": "Moorestown Public Library", 
+            "endDate": "2012-05-31", 
+            "position": "Data Entry/Database Development", 
+            "highlights": [
+                "Entered data and wrote prototype MySQL/PHP database and web interface for searching indices of Moorestown NJ newspapers."
+            ], 
+            "period": "2011--2012"
+        }
     ]
-  },
-  "skills": [
-    {
-      "name": "Office",
-      "level": "Intermediate-Advanced",
-      "keywords": [
-        "Research methods",
-        "Microsoft Office productivity (Excel, Word, and strong Microsoft Access)",
-        "strong communication, complaint resolution skills (in--person, telephone, e-mail, IM)",
-        "LibreOffice",
-        "high volume data entry and data analysis",
-        "report writing and preparation",
-        "library reference services",
-        "scheduling",
-        "touch typing (60 wpm)",
-        "document scanning",
-        "staff training",
-        "documentation"
-      ]
-    },
-    {
-      "name": "Computer",
-      "level": "Intermediate-Advanced",
-      "keywords": [
-        "CCNA Certified",
-        "Microsoft Server 2012",
-        "Linux",
-        "Unix",
-        "bash",
-        "GitHub",
-        "perl",
-        "Access SQL",
-        "bibliographic management software",
-        "HTML",
-        "HTML e-mail",
-        "Javascript",
-        "PHP",
-        "MySQL",
-        "CSS",
-        "TeX and LaTeX",
-        "XSLT",
-        "document management"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Invention Convention, New Albany Elementary School",
-      "position": "Data Entry",
-      "website": "",
-      "startDate": "2015-04-22",
-      "endDate": "2015-04-22",
-      "period": "2015",
-      "highlights": [
-        "Entered invention contest data into Microsoft Access database."
-      ]
-    },
-    {
-      "organization": "Moorestown Public Library",
-      "position": "Data Entry/Database Development",
-      "website": "http://www.moorestown.lib.nj.us/",
-      "startDate": "2011-01-01",
-      "endDate": "2012-05-31",
-      "period": "2011--2012",
-      "highlights": [
-        "Entered data and wrote prototype MySQL/PHP database and web interface for searching indices of Moorestown NJ newspapers."
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Moorestown Township Public Schools",
-      "position": "Substitute Paraprofessional",
-      "startDate": "2016-09-01",
-      "endDate": "present",
-      "period": "2016--present"
-    },
-    {
-      "company": "Home",
-      "position": "Stay at Home Dad",
-      "website": null,
-      "startDate": "2011-08-01",
-      "endDate": "2011-09-01",
-      "period": "2011--2016"
-    },
-    {
-      "company": "University of Chicago",
-      "position": "Supervisor, Social Service Administration Library",
-      "website": "http://lib.uchicago.edu/e/ssa",
-      "startDate": "2005-03-01",
-      "endDate": "2011-07-31",
-      "period": "2005--2011",
-      "summary": "Directed all daily operations of university branch library; supervised staff of seven, managed staff hiring, training, scheduling, evaluation and helped with project development and oversight.",
-      "highlights": [
-        "Wrote, formatted, and maintained content for SSA Library’s web site and designed layout.",
-        "Wrote documentation and standard operating procedures for various library functions.",
-        "Used open source software to provide in-house web and mobile scheduling of employees.",
-        "Wrote perl script to categorize social service research sources.",
-        "Wrote an awk script to generate AutoHotkey macros to vastly accelerate input of journal citations and links from aggregators into the integrated library system.",
-        "Served as Systems Liaison between SSA Library and University Library’s Systems Office.",
-        "Assisted with reference work, specializing in assistance with reference management software and database use.",
-        "Appointed member of Access committee for oversight of public services.",
-        "Alpha and beta tester for new reserve module of the integrated library system."
-      ]
-    },
-    {
-      "company": "University of Chicago",
-      "position": "Library Assistant II, Regenstein Library Course Reserves",
-      "website": "http://www.lib.uchicago.edu/e/using/reserve/",
-      "startDate": "2003-07-01",
-      "endDate": "2005-02-28",
-      "period": "2003--2005",
-      "summary": "Processor in extremely busy university course reserve department: processed requests from faculty and their proxies; obtained sources; processed paper and digital content; created and maintained records in integrated library system.",
-      "highlights": [
-        "Wrote Microsoft Access queries to provide data for annual report.",
-        "Improved various aspects of course reserve processing by creating Microsoft Access reports: book and article procurement; scanning triage; copyright compliance.",
-        "Appointed member of committee to develop specifications for the new reserve module of the integrated library system, ARES."
-      ]
-    }
-  ],
-  "prevhighlights": [
-    "Wrote for and maintained web sites.",
-    "Wrote Microsoft Access reports to produce annual report tables and to improve course reserve processing.",
-    "Improved on printed reserve catalog book with Microsoft Access generated web listings of books on library reserve for undergraduate courses; each title linked to real time circulation data in the integrated library system.",
-    "Designed a new nroff based system to replace reserve index card catalog with a printed book.",
-    "Wrote AskSam database for printing a catalog of books on reserve for law courses."
-  ],
-  "education": [
-    {
-      "institution": "Miles Technologies, Moorestown, NJ",
-      "area": "Windows 7",
-      "studyType": "Certification",
-      "startDate": "2016-11-10",
-      "endDate": "2016-12-10",
-      "period": "2016--Present",
-      "courses": "Remote Support (with a focus on Windows 7)"
-    },
-    {
-      "institution": "Network Learning Institute, Mount Laurel, NJ",
-      "area": "CCNA",
-      "studyType": "Certified (CSCO12946171)",
-      "startDate": "2015-12-14",
-      "endDate": "2016-03-07",
-      "period": "2015--2016",
-      "courses": [
-        "Certified with high passing grade",
-        "Networking Fundamentals",
-        "LANs & Switches",
-        "IPV4 Addressing & Subnetting",
-        "Route Summarization",
-        "Access Control Lists",
-        "IPV6 Fundamentals",
-        "Spanning Tree Protocol",
-        "IPV4 Troubleshooting",
-        "Routing Protocols: OSPF, EIGRP & Troubleshooting",
-        "WANS",
-        "IPV6 Troubleshooting - EIGRP & OSPF",
-        "Network Management"
-      ]
-    },
-    {
-      "institution": "Network Learning Institute, Mount Laurel, NJ",
-      "area": "MSCA (MS Server 2012 R2)",
-      "studyType": "Course work toward certfication",
-      "startDate": "2015-08-03",
-      "endDate": "2015-12-03",
-      "period": "2015--Present",
-      "courses": null
-    },
-    {
-      "institution": "University of Chicago, Chicago, IL",
-      "area": "European History",
-      "studyType": "Course work towards Bachelor of Arts",
-      "startDate": "1976-09-01",
-      "endDate": "1981-06-01",
-      "period": "1976--1981"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Linux Computing"
-    },
-    {
-      "name": "Trumpet"
-    },
-    {
-      "name": "Singing"
-    }
-  ]
 }
